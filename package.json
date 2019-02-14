@@ -1,6 +1,6 @@
 {
   "name": "sexcore",
-  "version": "4.1.11",
+  "version": "4.1.12",
   "description": "A platform to build bitcoin and blockchain-based applications.",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
