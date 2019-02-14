@@ -1,6 +1,6 @@
 {
   "name": "sexcore",
-  "version": "4.1.12",
+  "version": "4.1.13",
   "description": "A platform to build bitcoin and blockchain-based applications.",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
@@ -90,7 +90,7 @@
     "request": "browser-request"
   },
   "dependencies": {
-    "sexcore-lib": "git://github.com/sxcmarket/sexcore-lib.git",
+    "sexcore-lib": "^0.13.2",
     "sexcore-node": "git://github.com/sxcmarket/sexcore-node.git",
     "insight-sexcoin-api": "git://github.com/sxcmarket/insight-sexcoin-api.git",
     "insight-sexcoin-ui": "git://github.com/sxcmarket/insight-sexcoin-ui.git"
