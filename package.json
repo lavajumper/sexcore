@@ -1,6 +1,6 @@
 {
-  "name": "litecore",
-  "version": "4.1.10",
+  "name": "sexcore",
+  "version": "4.1.11",
   "description": "A platform to build bitcoin and blockchain-based applications.",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
@@ -9,8 +9,8 @@
     "build-deb": "./scripts/build-deb"
   },
   "bin": {
-    "litecore": "./bin/litecore",
-    "litecored": "./bin/litecored"
+    "sexcore": "./bin/sexcore",
+    "sexcored": "./bin/sexcored"
   },
   "contributors": [
     {
@@ -67,7 +67,7 @@
     }
   ],
   "keywords": [
-    "litecoin",
+    "sexcoin",
     "transaction",
     "address",
     "p2p",
@@ -84,16 +84,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/litecoin-project/litecore.git"
+    "url": "https://github.com/Sxcmarket/sexcore.git"
   },
   "browser": {
     "request": "browser-request"
   },
   "dependencies": {
-    "litecore-lib": "^0.13.22",
-    "litecore-node": "^3.1.11",
-    "insight-lite-api": "^0.4.4",
-    "insight-lite-ui": "^0.4.2"
+    "sexcore-lib": "git://github.com/sxcmarket/sexcore-lib.git",
+    "sexcore-node": "git://github.com/sxcmarket/sexcore-node.git",
+    "insight-sexcoin-api": "git://github.com/sxcmarket/insight-sexcoin-api.git",
+    "insight-sexcoin-ui": "git://github.com/sxcmarket/insight-sexcoin-ui.git"
   },
   "license": "MIT",
   "devDependencies": {

@@ -1,5 +1,5 @@
 'use strict';
 
-var litecore = require('litecore-lib');
+var sexcore = require('sexcore-lib');
 
-module.exports = litecore;
+module.exports = sexcore;
