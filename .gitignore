@@ -1,20 +1,19 @@
-*.swp
-coverage
-node_modules
-browser/tests.js
-docs/api
-
-CONTRIBUTING.html
-LICENSE.html
-README.html
-examples.html
-npm-debug.log
-
-apiref
-bower_components
-report
+*debug.log
+node_modules/
+.env
+*bitcore.config.*
+.vscode
 .DS_Store
+*.swp
 
-build
+# VIM ignore
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+ts_build
 
-tests.js
+.idea/
+*.iml
