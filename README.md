@@ -1,14 +1,13 @@
-<<<<<<< HEAD
 Sexcore
 =======
 
 [![NPM Package](https://img.shields.io/npm/v/litecore.svg?style=flat-square)](https://www.npmjs.org/package/sexcore)
 [![Build Status](https://travis-ci.org/Sxcmarket/sexcore.svg?branch=master&style=flat-square)](https://travis-ci.org/Sxcmarket/sexcore)
-=======
+
 # Bitcore
 
 **Infrastructure to build Bitcoin and blockchain-based applications for the next generation of financial technology.**
->>>>>>> 0bfe369068380ef888cd6e0ed3d72e282b1aa73c
+
 
 ## Getting Started
 
